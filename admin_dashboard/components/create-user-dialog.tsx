@@ -20,7 +20,7 @@ export default function CreateUserDialog() {
         <DialogHeader>
           <DialogTitle>Add Player</DialogTitle>
           <DialogDescription>
-            Add a new player to the torunament. A access code will then be generated for the player to access the tournament.
+            Add a new player to the tournament. A access code will then be generated for the player to access the tournament.
           </DialogDescription>
         </DialogHeader>
         <CreateUserForm />
